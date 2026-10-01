@@ -1,4 +1,4 @@
-git import os
+import os
 
 restaurantes = [{'nome':'Praça', 'categoria':'Japonesa', 'ativo':False}, 
                 {'nome':'Pizza Suprema', 'categoria':'Pizza', 'ativo':True},
